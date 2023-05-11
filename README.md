@@ -4,7 +4,7 @@ The Quiz Builder app allows you to create and play quizzes. You can create custo
 
 ## Usage
 
-To use the Quiz Builder app, simply click the following link: [Quiz Builder](https://your-quiz-builder-app-url](https://quiz-builder-lac.vercel.app)
+To use the Quiz Builder app, simply click the following link: [Quiz Builder](https://your-quiz-builder-app-url)
 
 ## Features
 
